@@ -53,10 +53,10 @@ theme_settings:
   special_page:
     search: 
       icon: "search" # Assuming page link and icon are the same
-      enabled: false
+      enabled: true
     tags:
       icon: "tags"
-      enabled: false
+      enabled: true
   
   # Localization strings
   str_follow_on: "Follow on"

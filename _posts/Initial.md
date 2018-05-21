@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Sample post
+title: Ensueño Jardines 
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
+ENSUEÑO Eventos representa un verdor natural exhuberante, ubicado en la mejor zona de TIQUIPAYA - Cochabamba, cuenta con una adecuada infraestructura para todo acontecimiento social y corporativo, los ambientes y la piscina se encuentran en medio de un verdor incomparable.
+Se ofrece servicios integrales personalizados para satisfacer las necesidades de nuestros clientes, cuidando al máximo cada detalle a través de su vasta experiencia, garantizando de esta manera el éxito de su evento. 
+ 
 <!--more-->
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 

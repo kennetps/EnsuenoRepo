@@ -1,8 +1,8 @@
 --- 
 layout: bootstrap 
-title : Servicios 
-permalink: /Services/
-subtitle: "Nuestros Servicios" 
+title : Actividades 
+permalink: /portfolio/
+subtitle: "Actividades que realizamos" 
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
 

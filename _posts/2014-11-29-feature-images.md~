@@ -6,6 +6,8 @@ thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem]
 ---
 
+![Image of a glass on a book]({{ site.baseurl }}/assets/img/pexels/book-glass.jpeg)
+
 ENSUEÑO Eventos representa un verdor natural exhuberante, ubicado en la mejor zona de TIQUIPAYA - Cochabamba, cuenta con una adecuada infraestructura para todo acontecimiento social y corporativo, los ambientes y la piscina se encuentran en medio de un verdor incomparable.
 Se ofrece servicios integrales personalizados para satisfacer las necesidades de nuestros clientes, cuidando al máximo cada detalle a través de su vasta experiencia, garantizando de esta manera el éxito de su evento.
 
