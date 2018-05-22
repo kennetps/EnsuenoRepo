@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: #"/Home"
-url: "https://kennetps.github.io/EnsuenoRepo/"
+baseurl: "/EnsuenoRepo"
+url: "https://kennetps.github.io/"
 title: Jardines Ensueño # site's title
 description: "El mejor lugar para realizar sus eventos" # used by search engines
 
